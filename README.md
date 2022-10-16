@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-product-preview-card-AmQeSnmtJf](https://www.frontendmentor.io/solutions/responsive-product-preview-card-AmQeSnmtJf)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-product-preview-card-9mbS6yWuck](https://www.frontendmentor.io/solutions/responsive-product-preview-card-9mbS6yWuck)
 - Live Site URL: [https://uchethecreator.github.io/product-preview-card/](https://uchethecreator.github.io/product-preview-card/)
 
 ## My process
